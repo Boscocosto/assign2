@@ -5,15 +5,16 @@ background-color: rgba(0, 0, 0, 0.500);
 
 .movies {
 
-  display: flex;
+display: flex;
 flex-direction: row;
-width: 100%;
+justify-content: center;
 gap: 2%;
+margin: 2%;
 }
 
 .movies img {
 
-  flex: 1;
+flex: 1;
 width: 32%;
 }
 
